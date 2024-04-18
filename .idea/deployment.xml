@@ -5,7 +5,7 @@
       <paths name="ubuntu">
         <serverdata>
           <mappings>
-            <mapping deploy="/home/zhangping/code" local="$PROJECT_DIR$/../../../project/wust" web="/" />
+            <mapping local="$PROJECT_DIR$" web="/" />
           </mappings>
         </serverdata>
       </paths>
